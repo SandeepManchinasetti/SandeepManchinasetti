@@ -12,7 +12,7 @@
 ### Hey there, I'm **Sandeep Manchinasetti** 👋
 
 <!-- Dynamic Animated Typing Banner -->
-<a href="https://github.com/sandeep2409-gitch">
+<a href="https://github.com/SandeepManchinasetti">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;AI+%2F+ML+%26+Computer+Vision+Engineer;Cybersecurity+Practitioner;Building+intelligent+systems+at+scale;Creator+of+Nuroliq+AI+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
@@ -20,7 +20,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://sandeepmanchinasetti.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeep-manchinasetti-bab221353/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDctBIKpmRu%2BLSYw2jvDhIw%3D%3D)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandeep2409-gitch)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SandeepManchinasetti)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandeepmanchinasetti007@gmail.com)
 
 </div>
@@ -60,13 +60,13 @@ sandeep = {
 
 | Project | Description | Stack | Links |
 |:---|:---|:---|:---:|
-| 🧠 **Nuroliq AI – Brain Tumor Classifier** | MRI classification model utilizing EfficientNetB0 transfer learning | `TensorFlow` `Flask` `OpenCV` | [View Repo ↗](https://github.com/sandeep2409-gitch) |
-| 👤 **Face Recognition Attendance System** | Automated attendance pipeline via real-time computer vision recognition | `Python` `OpenCV` | [View Repo ↗](https://github.com/sandeep2409-gitch) |
-| 🎓 **College 360** | Complete college management platform (attendance, schedules, event boards) | `Node.js` `MongoDB` `React` | [View Repo ↗](https://github.com/sandeep2409-gitch) |
-| 🌾 **Farm Direct** | Direct marketplace connecting agricultural farmers straight to consumers | `Node.js` `Express` `MongoDB` | [View Repo ↗](https://github.com/sandeep2409-gitch) |
-| 🤟 **Sign Language → Text Converter** | Real-time gesture recognition interface engineered for accessibility | `Deep Learning` `OpenCV` | [View Repo ↗](https://github.com/sandeep2409-gitch) |
-| 🤖 **Jarvis – Personal AI Assistant** | Voice-operated AI engine capable of system queries, actions & web search | `Python` `NLP` `SpeechRecognition` | [View Repo ↗](https://github.com/sandeep2409-gitch) |
-| 🛡️ **Phishing Link Detector + Extension** | Machine-learning powered real-time URL risk assessment Chrome extension | `Python` `ML` `Chrome APIs` | [View Repo ↗](https://github.com/sandeep2409-gitch) |
+| 🧠 **Nuroliq AI – Brain Tumor Classifier** | MRI classification model utilizing EfficientNetB0 transfer learning | `TensorFlow` `Flask` `OpenCV` | [View Repo ↗](https://github.com/SandeepManchinasetti) |
+| 👤 **Face Recognition Attendance System** | Automated attendance pipeline via real-time computer vision recognition | `Python` `OpenCV` | [View Repo ↗](https://github.com/SandeepManchinasetti) |
+| 🎓 **College 360** | Complete college management platform (attendance, schedules, event boards) | `Node.js` `MongoDB` `React` | [View Repo ↗](https://github.com/SandeepManchinasetti) |
+| 🌾 **Farm Direct** | Direct marketplace connecting agricultural farmers straight to consumers | `Node.js` `Express` `MongoDB` | [View Repo ↗](https://github.com/SandeepManchinasetti) |
+| 🤟 **Sign Language → Text Converter** | Real-time gesture recognition interface engineered for accessibility | `Deep Learning` `OpenCV` | [View Repo ↗](https://github.com/SandeepManchinasetti) |
+| 🤖 **Jarvis – Personal AI Assistant** | Voice-operated AI engine capable of system queries, actions & web search | `Python` `NLP` `SpeechRecognition` | [View Repo ↗](https://github.com/SandeepManchinasetti) |
+| 🛡️ **Phishing Link Detector + Extension** | Machine-learning powered real-time URL risk assessment Chrome extension | `Python` `ML` `Chrome APIs` | [View Repo ↗](https://github.com/SandeepManchinasetti) |
 
 ---
 
@@ -75,13 +75,13 @@ sandeep = {
 <div align="center">
 
 <!-- GitHub Stats & Top Languages side-by-side with cohesive TokyoNight theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=sandeep2409-gitch&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="155" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep2409-gitch&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=SandeepManchinasetti&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="155" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeepManchinasetti&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
 
 <br /><br />
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=sandeep2409-gitch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=SandeepManchinasetti&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br /><br />
 
@@ -114,6 +114,6 @@ sandeep = {
 
 <br /><br />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sandeep2409-gitch&color=0f172a&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=SandeepManchinasetti&color=0f172a&style=flat-square&label=Profile+Views)
 
 </div>
